@@ -6,7 +6,7 @@
 ### Facultad de Ingeniería Industria y Tecnología
 ### Análisis de Algoritmos
 
-**Estudiante:** Kevin Alberto Tinay Pérez.  
+**Estudiante:** Miguel Tinay Puac.  
 **Carnet:** 202304533  
 **Docente:** Ing. César Sazo  
 **Fecha:** Noviembre 2025
